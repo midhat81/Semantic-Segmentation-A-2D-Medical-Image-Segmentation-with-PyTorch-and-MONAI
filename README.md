@@ -1,0 +1,1 @@
+# Semantic-Segmentation-A-2D-Medical-Image-Segmentation-with-PyTorch-and-MONAI
